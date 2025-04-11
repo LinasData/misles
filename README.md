@@ -1,2 +1,2 @@
-# m-sl-s
+# misles
 Mįslių duomenų analizė
