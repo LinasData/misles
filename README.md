@@ -1,2 +1,2 @@
-# misles
+# Mįslės
 Mįslių duomenų analizė
